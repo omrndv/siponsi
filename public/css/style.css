@@ -1,0 +1,15 @@
+* {
+    font-family: inter;
+}
+
+.contain {
+    min-height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.active{
+    color:black;
+    font-weight: 600;
+}
